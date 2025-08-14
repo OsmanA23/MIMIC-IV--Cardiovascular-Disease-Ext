@@ -1,4 +1,5 @@
-Abstract—Acute Myocardial Infarction (AMI) is a leading cause
+## Abstract
+Acute Myocardial Infarction (AMI) is a leading cause
 of death worldwide, and early, accurate detection is critical to improving patient outcomes.
 Traditional diagnostic approaches often
 struggle to leverage large, complex, and unstructured clinical text in
@@ -19,10 +20,9 @@ identified as the most suitable model for deployment, highlighting
 the potential of domain-specific LLMs to enable early and reliable
 AMI detection in clinical decision support systems.
 
+## Files
 This repository contains Jupyter notebooks for preprocessing and modelling tasks on the MIMIC-IV Extended Cardiac Dataset for Acute Myocardial Infarction (AMI) detection.
 The modelling files generally have the same setup and flow, with the difference being the transformer model import and results.
-
-## Files
 
 - MIMIC_IV_Ext_EDA_preprocessing.ipynb  
   Preprocessing and exploratory data analysis (EDA) of MIMIC-IV clinical notes.
